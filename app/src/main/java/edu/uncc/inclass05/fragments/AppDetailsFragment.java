@@ -20,6 +20,7 @@ import java.util.ArrayList;
 import edu.uncc.inclass05.R;
 import edu.uncc.inclass05.databinding.FragmentAppDetailsBinding;
 import edu.uncc.inclass05.models.DataServices;
+//Joseph Mauney && Mohamed Ali Khaled
 
 /**
  * A simple {@link Fragment} subclass.

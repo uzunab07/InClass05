@@ -1,5 +1,7 @@
 package edu.uncc.inclass05;
 
+//Joseph Mauney && Mohamed Ali Khaled
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;

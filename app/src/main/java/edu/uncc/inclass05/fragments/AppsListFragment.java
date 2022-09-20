@@ -1,5 +1,5 @@
 package edu.uncc.inclass05.fragments;
-
+//Joseph Mauney && Mohamed Ali Khaled
 import android.content.Context;
 import android.os.Bundle;
 

@@ -13,7 +13,7 @@ import androidx.annotation.Nullable;
 import java.util.List;
 
 import edu.uncc.inclass05.models.DataServices;
-
+//Joseph Mauney && Mohamed Ali Khaled
 public class AppAdapater extends ArrayAdapter<DataServices.App> {
 
     public AppAdapater(@NonNull Context context, int resource, @NonNull List objects) {

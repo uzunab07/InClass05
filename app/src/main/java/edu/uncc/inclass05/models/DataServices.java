@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
-
+//Joseph Mauney && Mohamed Ali Khaled
 public class DataServices {
     private static final HashMap<String, ArrayList<App>> apps= new HashMap<String, ArrayList<App>>(){{
         put("Top Free Apps", new ArrayList<App>(){{
